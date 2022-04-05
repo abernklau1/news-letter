@@ -1,0 +1,23 @@
+{
+  "name": "news-letter",
+  "version": "1.0.0",
+  "description": "A simple app to sign up for a news letter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abernklau1/news-letter.git"
+  },
+  "author": "Andrew Bernklau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abernklau1/news-letter/issues"
+  },
+  "homepage": "https://github.com/abernklau1/news-letter#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  }
+}
